@@ -4,3 +4,6 @@
 
 ##官方文档
 [http://pay.weixin.qq.com/wiki/doc/api/cash_coupon.php?chapter=13_5](http://pay.weixin.qq.com/wiki/doc/api/cash_coupon.php?chapter=13_5)
+
+
+![DEMO_IMG](https://raw.githubusercontent.com/sunzhaoyang/WeixinRedPackSDK/master/IMG_0954.PNG)
