@@ -1,4 +1,5 @@
 #	微信红包SDK(JAVA)
+##  Wechat RedPack SDK JAVA
 
 初学JAVA，最近用的微信红包的开发工具，附带演示DEMO
 
